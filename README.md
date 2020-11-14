@@ -1,2 +1,5 @@
 # check-your-marks
-This is a basic marks calculator like if user enters there marks for the subjects it will send him the avg and then give him a feedback
+
+This is a basic program  to calculate your grades, the program will calculate your grades and send you a feedback saying do you need to work hard and more!
+
+-Dasith Vidanage
