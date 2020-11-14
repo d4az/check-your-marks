@@ -4,4 +4,4 @@ This is a basic program  to calculate your grades, the program will calculate yo
 
 -Dasith Vidanage
 
-![alt text](http://url/to/img.png)
+![screenshot](https://github.com/d4az/check-your-marks/blob/main/img.png)
